@@ -17,7 +17,7 @@ class Hexagon(Polygon):
   
    def sides(self):   
       print("Hexagon has 6 sides")   
-  
+   
 class square(Polygon):   
   
    def sides(self):   
